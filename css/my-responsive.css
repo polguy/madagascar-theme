@@ -1,0 +1,19 @@
+@media (max-width: 991px) {
+  .content-wrapper .node-content__wrapper
+  , .content-wrapper .node__sidebar
+  , .content-wrapper .node-content__wrapper.chauffeurs
+  , .content-wrapper .node__sidebar.chauffeurs{
+    float: none;
+    width: auto;
+  }
+
+  .site-name a {
+    width: auto;
+  }
+  .site-slogan {
+    font-size: 1.3em;
+  }
+
+
+
+}
